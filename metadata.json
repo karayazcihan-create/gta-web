@@ -1,0 +1,6 @@
+{
+  "name": "VICE VI — GTA VI Luxury Automotive & Editorial Showcase",
+  "description": "An ultra-premium cinematic showcase dedicated to Grand Theft Auto VI, featuring Vice City characters, an interactive Three.js three-level luxury car podium, and an underground automotive exhibition.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
